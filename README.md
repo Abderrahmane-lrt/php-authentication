@@ -1,2 +1,2 @@
-# php-authentication
+# php-authentifcation
 in right way
